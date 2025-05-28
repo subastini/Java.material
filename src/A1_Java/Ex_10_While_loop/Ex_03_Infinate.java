@@ -1,4 +1,4 @@
-package Ex_10_While_loop;
+package A1_Java.Ex_10_While_loop;
 
 public class Ex_03_Infinate {
     public static void main(String[] args) {
